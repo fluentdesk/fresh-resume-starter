@@ -145,10 +145,10 @@
 
   "samples": [
     {
-      "title": "",
-      "summary": "",
-      "url": "",
-      "date": ""
+      "title": "Work Sample",
+      "summary": "Description or summary of the work sample.",
+      "url": "http://project-repo.com",
+      "date": "2015"
     }
   ],
 
@@ -190,7 +190,7 @@
       "from": "HackMyResume",
       "title": "Awesomeness Award",
       "event": "HMR Release",
-      "date": "current",
+      "date": "2016",
       "summary": "For being a HackMyResume or FluentCV user."
     },
     {
@@ -198,7 +198,7 @@
       "from": "Big Software",
       "title": "MVP: SpinWidget Technology",
       "event": "Yearly Roundup",
-      "date": "current",
+      "date": "2015-08-03",
       "summary": "For work in promotion and popularization of SpinWidget technology."
     }
   ],
