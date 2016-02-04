@@ -1,0 +1,202 @@
+{
+  "basics": {
+    "name": "Your Name",
+    "label": "Your Profession",
+    "summary": "A brief description of yourself as a candidate that appears in some résumé themes. You may use **Markdown** and/or <strong>HTML</strong> formatting here including [links](https://en.wikipedia.org/wiki/Special:Random) or stick to plain text.",
+    "website": "http://your-website.com",
+    "phone": "1-999-999-9999",
+    "email": "your-email@your-website.com",
+    "picture": "",
+    "location": {
+      "address": "123 Somewhere Lane",
+      "postalCode": "90210",
+      "city": "Castle Rock",
+      "countryCode": "US",
+      "region": "State, province, or region"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "your-github-username",
+        "url": "https://github.com/your-github-username"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Most Recent Employer",
+      "website": "http://employer-website.com",
+      "position": "Head Honcho",
+      "startDate": "2013-10",
+      "summary": "A summary of your role in this position. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
+      "highlights": [
+        "Increased profits on left-handed spin widgets by 35%.",
+        "Participated in iterative/incremental devolution.",
+        "Promoted to Head Ninja after 500 successful cage matches."
+      ]
+    },
+    {
+      "company": "Previous Employer",
+      "website": "http://employer-website.com",
+      "position": "Worker Bee",
+      "startDate": "2009-07",
+      "endDate": "2013-10",
+      "summary": "A summary of your previous role. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
+      "highlights": [
+        "Highlight #1.",
+        "Highlight #2.",
+        "Highlight #3."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Acme University",
+      "gpa": "3.5",
+      "courses": [
+        "Data Algorithms",
+        "Optimization",
+        "Neural Networks",
+        "C",
+        "C++",
+        "Java",
+        "HTTP",
+        "TCP/IP"
+      ],
+      "startDate": "2004-09",
+      "endDate": "2009-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "advanced",
+      "keywords": [
+        "LAMP",
+        "JavaScript",
+        "HTML 5",
+        "Angular.js",
+        "jQuery",
+        "Sass",
+        "LESS"
+      ]
+    },
+    {
+      "name": "Ninjitsu",
+      "level": "intermediate",
+      "keywords": [
+        "Tokagure Ryu",
+        "Shuriken",
+        "Yogen"
+      ]
+    },
+    {
+      "name": "Skillset #3",
+      "level": "beginner",
+      "keywords": [
+        "Your",
+        "keywords",
+        "here"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "flavor": "volunteer",
+      "organization": "The Mommies Network",
+      "position": "Volunteer Coordinator",
+      "startDate": "2006-06",
+      "website": "http://themommiesnetwork.org",
+      "summary": "A summary of your volunteer experience at this organization. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
+      "highlights": []
+    },
+    {
+      "flavor": "military",
+      "organization": "Air Force",
+      "position": "MOS",
+      "startDate": "2004",
+      "website": "https://service-website.mil",
+      "summary": "A summary of your service experience with this organization. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
+      "highlights": []
+    }
+  ],
+  "awards": [
+    {
+      "flavor": "award",
+      "url": "http://please.hackmyresume.com",
+      "title": "Awesomeness Award",
+      "date": "2016",
+      "awarder": "HackMyResume",
+      "summary": "Thanks for being a HackMyResume / FluentCV user!"
+    },
+    {
+      "flavor": "industry",
+      "title": "MVP: SpinWidget Technology",
+      "date": "2015-08-03",
+      "awarder": "Big Software",
+      "summary": "For work in promotion and popularization of SpinWidget technology."
+    }
+  ],
+  "publications": [
+    {
+      "name": "My Blog",
+      "publisher": "Medium.com",
+      "releaseDate": "2010",
+      "website": "http://coding-snorer.com",
+      "summary": "Your blog or online home."
+    },
+    {
+      "name": "Something I Wrote Once",
+      "publisher": "Acme University Press",
+      "releaseDate": "2009",
+      "website": "http://codeproject.com/something-i-wrote-once",
+      "summary": "List your blogs, articles, essays, novels, and dissertations."
+    }
+  ],
+  "interests": [
+    {
+      "name": "GitHub",
+      "summary": "Regular GitHub user and tinkerer.",
+      "keywords": [
+        "GitHub",
+        "git",
+        "GitHub Desktop (OS X)",
+        "LFS",
+        "GitHub API"
+      ]
+    },
+    {
+      "name": "chess",
+      "summary": "Avid chess player.",
+      "keywords": [
+        "Sicilian",
+        "King's Gambit",
+        "Ruy Lopez"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "John Doe",
+      "reference": "Such-and-such is awesome! I'd hire him/her again in a second!"
+    },
+    {
+      "name": "Somebody Important",
+      "reference": "Hands-down *the best developer/manager/spelunker/coworker/etc* I've ever worked with. Emphasis *mine!*"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "native"
+    },
+    {
+      "language": "Spanish",
+      "level": "advanced"
+    },
+    {
+      "language": "C++",
+      "level": "intermediate"
+    }
+  ]
+}

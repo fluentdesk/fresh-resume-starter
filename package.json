@@ -1,6 +1,6 @@
 {
   "name": "fresh-resume-starter",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "A starter FRESH resume.",
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
   "bugs": {
     "url": "https://github.com/fluentdesk/fresh-resume-starter/issues"
   },
-  "main": "src/starter-resume.fresh.json",
+  "main": "src/index.js",
   "homepage": "https://github.com/fluentdesk/fresh-resume-starter"
 }
