@@ -34,7 +34,7 @@ console.log( freshStarterResume.name );
 MIT. See [LICENSE.md][lic] for details.
 
 [f]: https://github.com/fluentdesk/FRESCA.git
-[hmr]: http://please.hackmyresume.com
+[hmr]: https://fluentdesk.com/hackmyresume
 [lic]: https://github.com/fluentdesk/fresh-resume-empty/blob/master/LICENSE.md
 [rf]: https://github.com/fluentdesk/fresh-resume-starter/blob/master/src/starter-resume.fresh.json
 [rj]: https://github.com/fluentdesk/fresh-resume-starter/blob/master/src/starter-resume.jrs.json
